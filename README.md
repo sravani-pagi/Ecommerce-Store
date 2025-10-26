@@ -1,8 +1,7 @@
 
 #  Ecommerce Store
 
-A modern and responsive **Ecommerce web application** built using React (TypeScript) and a backend API.  
-It allows users to browse products, register/login, add items to a wishlist or cart, and make purchases — designed with scalability and performance in mind.
+A modern and responsive **Ecommerce web application** built using React (TypeScript) and a backend API.It allows users to browse products, register/login, add items to a wishlist or cart, and make purchases — designed with scalability and performance in mind.
 
 ---
 
@@ -36,21 +35,6 @@ It allows users to browse products, register/login, add items to a wishlist or c
 - Deployed via Vercel / Netlify / Render
 
 ---
-
-Ecommerce-Store/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── App.css      # Reusable UI components App pages (Home, Login, Register, etc.)
-│   ├── Index.css/          # Images and icons
-│   ├── App.tsx          # Root component
-│   ├── index.tsx        # Entry point
-│   └── index.htmi                # CSS or Tailwind setup
-│
-└── package.json
-
 
 ##  Installation and Setup
 
